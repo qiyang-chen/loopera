@@ -1,4 +1,5 @@
-# Loopera
+# Loopera ∞ — Your Quant assistant
+
 
 **官网：** https://www.loopera.cn
 
